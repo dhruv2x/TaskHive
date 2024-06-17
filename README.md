@@ -1,4 +1,4 @@
-# Rise and Shine Task Management Application
+# TaskHive : Architecture Of Freelance Project
 
 ## Overview
 
