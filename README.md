@@ -15,8 +15,8 @@ This repository contains the code for a task management application developed fo
 - **Local Storage**: Shared Preferences (Flutter)
 
 ## Architecture Diagram
+![image](https://github.com/dhruv2x/TaskHive/assets/84621641/2cc6e467-abf1-4eb7-9932-824435575d9c)
 
-![Architecture Diagram](path/to/architecture_diagram.png)
 
 ## Modules and Features
 
