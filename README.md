@@ -62,51 +62,6 @@ A real-time communication tool for direct messaging and group chats:
 ### Profile Management
 - **User Information**: Manage personal and professional information within the app
 
-## Getting Started
-
-### Prerequisites
-- Flutter SDK
-- Node.js and npm
-- MongoDB
-- Firebase account for chat and FCM
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone xyz
-   cd rise-and-shine-task-manager
-   ```
-
-2. **Install backend dependencies**
-   ```bash
-   cd backend
-   npm install
-   ```
-
-3. **Setup MongoDB**
-   - Ensure MongoDB is running on your machine or set up a MongoDB Atlas account and configure the connection string.
-
-4. **Setup Firebase**
-   - Create a Firebase project and configure Firestore and FCM.
-   - Download `google-services.json` and place it in the appropriate directory in your Flutter project.
-
-5. **Run the backend server**
-   ```bash
-   npm start
-   ```
-
-6. **Install frontend dependencies**
-   ```bash
-   cd ../frontend
-   flutter pub get
-   ```
-
-7. **Run the Flutter app**
-   ```bash
-   flutter run
-   ```
-
 ## Contact
 
 For any inquiries, please contact the development team at [chauhandhruv351@gmailcom](mailto:chauhandhruv351@gmail.com).
