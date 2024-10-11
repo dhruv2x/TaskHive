@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for a task management application developed for the client Rise and Shine. The application is built using Flutter for the front-end, Node.js with Express for the backend, and MongoDB for the database. Firebase is utilized for chat functionality and notifications, and JWT tokens are implemented for authentication.
+This repository contains the architecture for a task management application developed for the client Rise and Shine. The application is built using Flutter for the front-end, Node.js with Express for the backend, and MongoDB for the database. Firebase is utilized for chat functionality and notifications, and JWT tokens are implemented for authentication.
 
 ## Tech Stack
 
